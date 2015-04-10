@@ -6,7 +6,7 @@
 Data, specifically, multivariate time series data. The data can come from anywhere: neuron responses, wearable sensors, climate financial records, user clicks, EEG channels. They just need to be time series. 
 
 For small data sets
-- We can convert from a variety of formats, including `npy` arrays`, `mat` files, `csv`, or `text`.
+- We can convert from a variety of formats, including `npy` arrays, `mat` files, `csv`, or `text`.
 - Data will either hosted as part of this repository (if sufficiently small), or on Amazon S3 at at s3://code.neuro/byod
 
 For large data sets
